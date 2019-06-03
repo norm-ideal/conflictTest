@@ -1,3 +1,4 @@
 # conflictTest
 
-a edit
+
+another edit of mine
